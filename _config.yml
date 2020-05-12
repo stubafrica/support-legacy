@@ -28,7 +28,7 @@ twitter_username: stubafrica
 github_username:  stub-africa
 
 # Build settings
-remote_theme: stub-africa/support-theme
+# remote_theme: stub-africa/support-theme
 plugins:
   - jekyll-feed
 
