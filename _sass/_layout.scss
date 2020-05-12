@@ -1,9 +1,25 @@
 .site-nav {
     padding-top: 2px;
+
     .wrapper {
         display: flex;
         justify-content: space-between;
         align-items: center;
+
+        h1 {
+            font-size: 20px;
+            font-weight: 700;
+            margin: 0 24px;
+            flex-grow: 2;
+
+            a {
+                color: $dark;
+                text-decoration: none;
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
     }
 }
 .stub-logo {
@@ -24,8 +40,7 @@
 .page-title {
     background-image:
         linear-gradient(
-        to right, 
-        #00D49C,
+        to top right, 
         #00C0B9,
         #285E9C
         );
@@ -62,7 +77,77 @@
     }
 }
 
-footer {
-    background: $gray-1;
+.toc-and-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    .toc {
+        width: 100%;
+        background: $gray-2;
+        padding: 0 24px;
+        border-radius: 9px;
+        box-sizing: border-box;
+
+        ul {
+            list-style: none;
+            padding: 0;
+
+            ul {
+                margin: 0;
+                padding-left: 18px;
+            }
+        }
+    }
+    .content {
+        width: 100%;
+    }
+}
+@media (min-width: $breakpoint-lg) {
+    .toc-and-content {        
+        .toc {
+            width: 33%;
+            order: 2;
+        }
+        .content {
+            width: 66%;
+        }
+    }
 }
 
+footer {
+    background: $gray-1;
+
+    .wrapper {
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+
+        .column {
+            width: 100%;
+        }
+        p {
+            width: 100%;
+        }
+    }
+}
+@media (min-width: $breakpoint-md) {
+    footer {
+        .wrapper {
+            .column {
+                width: 33%;
+            }
+        }
+    }
+}
+@media (min-width: $breakpoint-lg) {
+    footer {
+        .wrapper {
+            .column {
+                width: 25%;
+            }
+        }
+    }
+}

@@ -1,5 +1,31 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
-{{ content }}
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main>
+      <div class="wrapper toc-and-content">
+
+        <div class="toc">
+            <h4>Contents</h4>
+
+            {%- include toc.html html=content -%}
+        </div>
+
+        <div class="content">
+            {{ content }}
+        </div>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    {%- include analytics.html -%}
+
+  </body>
+
+</html>
