@@ -1,0 +1,17 @@
+.site-nav {
+    .wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.wrapper {
+    padding: 24px;
+    max-width: $site-width;
+    margin: 0 auto;
+}
+
+footer {
+    background: $gray-1;
+}

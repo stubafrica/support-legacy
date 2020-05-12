@@ -3,12 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Help & Support
+subtitle: We're here to help
 ---
 
-Stub Help & Support
+Stub is a financial management platform for smart businesses. We take care of your money so that you can focus on your business. 
 
-- Getting Started
+- [Getting Started](google.com)
+- Using Stub
 - Invoices
-- Expenses
-- Income
+- Expenses & Income
+- Tips & Tricks
 - Talk to us
