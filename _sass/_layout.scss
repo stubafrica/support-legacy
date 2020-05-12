@@ -1,17 +1,68 @@
 .site-nav {
+    padding-top: 2px;
     .wrapper {
         display: flex;
         justify-content: space-between;
         align-items: center;
     }
 }
+.stub-logo {
+    width: 72px; 
+    height: auto;
+}
+@media (min-width: $breakpoint-md) {
+    .stub-logo {
+        width: 86px;
+    }
+}
+@media (min-width: $breakpoint-lg) {
+    .stub-logo {
+        width: 98px;
+    }
+}
+
+.page-title {
+    background-image:
+        linear-gradient(
+        to right, 
+        #00D49C,
+        #00C0B9,
+        #285E9C
+        );
+    padding: 18px 0;
+
+    h1,h2,h3,h4,h5,h6 {
+        color: $light;
+        margin: 9px 0;
+    }
+    p {
+        color: $gray-2;
+        margin: 12px 0;
+    }
+}
+@media (min-width: $breakpoint-lg) {
+    .page-title {
+        padding-bottom: 24px 0;
+    }
+}
 
 .wrapper {
-    padding: 24px;
+    padding: 12px;
     max-width: $site-width;
     margin: 0 auto;
+}
+@media (min-width: $breakpoint-md) {
+    .wrapper {
+        padding: 18px;
+    }
+}
+@media (min-width: $breakpoint-lg) {
+    .wrapper {
+        padding: 24px;
+    }
 }
 
 footer {
     background: $gray-1;
 }
+

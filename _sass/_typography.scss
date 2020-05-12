@@ -8,6 +8,12 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+::-moz-selection {
+    background: $brand-light;
+}
+::selection {
+    background: $brand-light;
+}
 h1 {
     font-size: 24px;
     color: $dark;
@@ -65,6 +71,11 @@ a {
         color: $brand-dark;
     }
 }
+.callout {
+    padding: 12px;
+    border-radius: 9px;
+    background-color: $brand-vlight;
+}
 
 .button {
     color: $light;
@@ -77,6 +88,7 @@ a {
     .material-icons {
         position: relative;
         top: 3px;
+        font-size: 16px;
     }
     &:hover {
         background: $brand-dark;
@@ -84,21 +96,7 @@ a {
     }
 }
 
-.page-title {
-    background-image:
-        linear-gradient(
-        to right, 
-        #00D49C,
-        #00C0B9,
-        #285E9C
-        );
-    padding-bottom: 24px;
-    * {
-        color: $light;
-    }
-}
-
-@media (min-width: 480px) {
+@media (min-width: $breakpoint-md) {
     body {
         font-size: 18px;
     }
@@ -126,9 +124,12 @@ a {
         font-size: 18px;
         margin: 20px 0 9px;
     }
+    .callout {
+        padding: 16px 18px;
+    }
 }
 
-@media (min-width: 960px) {
+@media (min-width: $breakpoint-lg) {
     body {
         font-size: 20px;
     }
@@ -155,5 +156,13 @@ a {
     h6 {
         font-size: 20px;
         margin: 24px 0 9px;
+    }
+    .callout {
+        padding: 22px 24px;
+    }
+    .button {
+        .material-icons {
+            font-size: 24px;
+        }
     }
 }

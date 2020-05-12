@@ -60,9 +60,10 @@
 
 $font-family: 'public-sans', sans-serif;
 
-$brand-light: lighten(#22CB9F, 40);
+$brand-vlight:#E5FAF5;
+$brand-light: #B2F1E1;
 $brand:       #22CB9F;
-$brand-dark:  darken(#22CB9F, 8);
+$brand-dark:  #03C296;
 $light:       #ffffff;
 $gray-1:      #fafafb;
 $gray-2:      #f4f4f5;
@@ -77,6 +78,9 @@ $dark:        #1d2322;
 
 $site-width:  960px;
 $border-radius: 4px;
+
+$breakpoint-md: 480px;
+$breakpoint-lg: 960px;
 
 @import
     "normalize",

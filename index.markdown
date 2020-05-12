@@ -7,7 +7,7 @@ title: Help & Support
 subtitle: We're here to help
 ---
 
-Stub is a financial management platform for smart businesses. We take care of your money so that you can focus on your business. 
+<p class="callout">Stub is a financial management platform for smart businesses. We take care of your money so that you can focus on your business. </p>
 
 - [Getting Started](google.com)
 - Using Stub
