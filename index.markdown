@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+Stub Help & Support
+
+- Getting Started
+- Invoices
+- Expenses
+- Income
+- Talk to us
