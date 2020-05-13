@@ -109,24 +109,24 @@ a {
     }
 }
 footer {
-    h4, ul, p {
+    h5, ul, p {
         font-size: 16px;
     }
-    h4 {
-        color: $gray-7;
+    h5 {
+        color: $gray-9;
     }
     ul {
         list-style: none;
         padding: 0;
     }
     a {
-        color: $gray-6;
+        color: $gray-8;
         &:hover {
-            color: $gray-8;
+            color: $gray-9;
         }
     }
     p {
-        color: $gray-6;
+        color: $gray-8;
     }
 }
 
@@ -214,7 +214,7 @@ footer {
         }
     }
     footer {
-        h4, ul, p {
+        h5, ul, p {
             font-size: 18px;
         }
     }
