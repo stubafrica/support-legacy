@@ -23,12 +23,12 @@
     }
 }
 .stub-logo {
-    width: 72px; 
+    width: 70px; 
     height: auto;
 }
 @media (min-width: $breakpoint-md) {
     .stub-logo {
-        width: 86px;
+        width: 80px;
     }
     .site-nav {
         .wrapper {   
@@ -40,7 +40,7 @@
 }
 @media (min-width: $breakpoint-lg) {
     .stub-logo {
-        width: 98px;
+        width: 100px;
     }
     .site-nav {
         .wrapper {   
@@ -55,8 +55,8 @@
     background-image:
         linear-gradient(
         to top right, 
-        #00C0B9,
-        #285E9C
+        #00C77F,
+        #282F82
         );
     padding: 18px 0;
 
