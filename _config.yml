@@ -22,8 +22,8 @@ title: Stub Support
 email: support@stub.africa
 description: >- # this means to ignore newlines until "baseurl:"
   Help and support for stub — your digital CFO.
-baseurl: "/support" # the subpath of your site, e.g. /blog
-url: "https://stub-africa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://support.stub.africa" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stubafrica
 github_username:  stub-africa
 
