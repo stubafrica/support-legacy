@@ -5,64 +5,90 @@
 @charset "utf-8";
 
 @font-face {
-    font-family: 'public-sans';
-    src: url('../assets/fonts/PublicSans-Regular.woff2') format('woff2'),
-         url('../assets/fonts/PublicSans-Regular.woff') format('woff'),
-         url('../assets/fonts/PublicSans-Regular.ttf') format('truetype');
+    font-family: 'Public Sans';
+    src: url('../assets/fonts/publicsans-regular.woff2') format('woff2'),
+         url('../assets/fonts/publicsans-regular.woff') format('woff'),
+         url('../assets/fonts/publicsans-regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'public-sans';
-    src: url('../assets/fonts/PublicSans-Italic.woff2') format('woff2'),
-         url('../assets/fonts/PublicSans-Italic.woff') format('woff'),
-         url('../assets/fonts/PublicSans-Italic.ttf') format('truetype');
+    font-family: 'Public Sans';
+    src: url('../assets/fonts/publicsans-italic.woff2') format('woff2'),
+         url('../assets/fonts/publicsans-italic.woff') format('woff'),
+         url('../assets/fonts/publicsans-italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'public-sans';
-    src: url('../assets/fonts/PublicSans-Medium.woff2') format('woff2'),
-         url('../assets/fonts/PublicSans-Medium.woff') format('woff'),
-         url('../assets/fonts/PublicSans-Medium.ttf') format('truetype');
+    font-family: 'Public Sans';
+    src: url('../assets/fonts/publicsans-medium.woff2') format('woff2'),
+         url('../assets/fonts/publicsans-medium.woff') format('woff'),
+         url('../assets/fonts/publicsans-medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'public-sans';
-    src: url('../assets/fonts/PublicSans-MediumItalic.woff2') format('woff2'),
-         url('../assets/fonts/PublicSans-MediumItalic.woff') format('woff'),
-         url('../assets/fonts/PublicSans-MediumItalic.ttf') format('truetype');
+    font-family: 'Public Sans';
+    src: url('../assets/fonts/publicsans-mediumitalic.woff2') format('woff2'),
+         url('../assets/fonts/publicsans-mediumitalic.woff') format('woff'),
+         url('../assets/fonts/publicsans-mediumitalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'public-sans';
-    src: url('../assets/fonts/PublicSans-Bold.woff2') format('woff2'),
-         url('../assets/fonts/PublicSans-Bold.woff') format('woff'),
-         url('../assets/fonts/PublicSans-Bold.ttf') format('truetype');
+    font-family: 'Public Sans';
+    src: url('../assets/fonts/publicsans-bold.woff2') format('woff2'),
+         url('../assets/fonts/publicsans-bold.woff') format('woff'),
+         url('../assets/fonts/publicsans-bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'public-sans';
-    src: url('../assets/fonts/PublicSans-BoldItalic.woff2') format('woff2'),
-         url('../assets/fonts/PublicSans-BoldItalic.woff') format('woff'),
-         url('../assets/fonts/PublicSans-BoldItalic.ttf') format('truetype');
+    font-family: 'Public Sans';
+    src: url('../assets/fonts/publicsans-bolditalic.woff2') format('woff2'),
+         url('../assets/fonts/publicsans-bolditalic.woff') format('woff'),
+         url('../assets/fonts/publicsans-bolditalic.ttf') format('truetype');
     font-weight: 700;
     font-style: italic;
 }
 
-$font-family: 'public-sans', sans-serif;
+@font-face {
+    font-family: 'Basier Circle';
+    src: url('../assets/fonts/basiercircle-regular-webfont.woff2') format('woff2'),
+         url('../assets/fonts/basiercircle-regular-webfont.woff') format('woff'),
+         url('../assets/fonts/basiercircle-regular-webfont.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Basier Circle';
+    src: url('../assets/fonts/basiercircle-semibold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/basiercircle-semibold-webfont.woff') format('woff'),
+         url('../assets/fonts/basiercircle-semibold-webfont.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Basier Circle';
+    src: url('../assets/fonts/basiercircle-bold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/basiercircle-bold-webfont.woff') format('woff'),
+         url('../assets/fonts/basiercircle-bold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+$display-font-family: 'Basier Circle', sans-serif;
+$text-font-family: 'Public Sans', sans-serif;
 
 $brand-vlight:#E5F9F2;
 $brand-light: #CCF4E5;
-$brand:       #00C77F;
+$brand:       #00CC78;
 $brand-dark:  #08A87F;
 $light:       #ffffff;
 $gray-1:      #fafafb;
@@ -76,7 +102,7 @@ $gray-8:      #808281;
 $gray-9:      #444948;
 $dark:        #1d2322;
 
-$site-width:  960px;
+$site-width:    960px;
 $border-radius: 4px;
 
 $breakpoint-md: 480px;
