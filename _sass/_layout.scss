@@ -96,12 +96,13 @@
 
     .toc {
         width: 100%;
-        background: #E7F5EF;
+        background: #F4F1EA;
         padding: 0 24px 12px;
         border-radius: 9px;
         box-sizing: border-box;
 
         a {
+            color: $brand-dark;
             text-decoration: none;
         }
 
