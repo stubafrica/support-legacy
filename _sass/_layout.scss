@@ -96,19 +96,25 @@
 
     .toc {
         width: 100%;
-        background: #F4F1EA;
+        background: $gray-1;
         padding: 0 24px 12px;
         border-radius: 9px;
         box-sizing: border-box;
+        
+        h5 {
+            // font-size: 18px;
+            margin: 24px 0;
+        }
 
         a {
-            color: $brand-dark;
+            font-size: 16px;
             text-decoration: none;
         }
 
         ul {
             list-style: none;
             padding: 0;
+            margin: 18px 0;
 
             ul {
                 margin: 0;
@@ -125,6 +131,10 @@
         .toc {
             width: 33%;
             order: 2;
+
+            a {
+                font-size: 18px;
+            }
         }
         .content {
             width: 66%;
