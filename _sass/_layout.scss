@@ -7,7 +7,7 @@
         align-items: center;
 
         h1 {
-            font-size: 18px;
+            font-size: 16px;
             font-weight: 600;
             margin: 0 24px;
             flex-grow: 2;
@@ -23,12 +23,24 @@
     }
 }
 .stub-logo {
-    width: 70px; 
+    width: 90px; 
     height: auto;
 }
 @media (min-width: $breakpoint-md) {
     .stub-logo {
-        width: 80px;
+        width: 110px;
+    }
+    .site-nav {
+        .wrapper {   
+            h1 {
+                font-size: 18px;
+            }
+        }
+    }
+}
+@media (min-width: $breakpoint-lg) {
+    .stub-logo {
+        width: 130px;
     }
     .site-nav {
         .wrapper {   
@@ -38,23 +50,16 @@
         }
     }
 }
-@media (min-width: $breakpoint-lg) {
-    .stub-logo {
-        width: 100px;
-    }
-    .site-nav {
-        .wrapper {   
-            h1 {
-                font-size: 24px;
-            }
-        }
-    }
-}
 
 .page-title {
-    background: #121640 url('../assets/img/bg.jpg') repeat center center;
-    background-size: 100% auto;
-    // background: #002F1B;    
+    // background: #121640 url('../assets/img/bg.jpg') repeat center center;
+    // background-size: 100% auto;
+    background: #172825;
+    background-image:
+        linear-gradient(
+            to left,
+            #172825, #204438
+        );
     padding: 18px 0;
 
     h1,h2,h3,h4,h5,h6 {
@@ -96,10 +101,10 @@
 
     .toc {
         width: 100%;
-        background: $gray-1;
-        padding: 0 24px 12px;
-        border-radius: 9px;
+        margin: 0;
+        padding: 0 0 12px;
         box-sizing: border-box;
+        border-bottom: 1px solid $gray-2;
         
         h5 {
             // font-size: 18px;
@@ -129,8 +134,10 @@
 @media (min-width: $breakpoint-lg) {
     .toc-and-content {        
         .toc {
+            padding: 24px 0;
             width: 33%;
             order: 2;
+            border-bottom: none;
 
             a {
                 font-size: 18px;
