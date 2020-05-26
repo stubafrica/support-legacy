@@ -93,25 +93,33 @@ a {
     padding: 12px;
     margin: 12px 0;
     border-radius: 9px;
-    background-color: #F4F1EA;
+    background-color: #FCF9F2;
 }
 
 .button {
     color: $light;
     background: $brand;
     border-radius: $border-radius;
+    border: 1px solid #00AB77;
     padding: 7px 18px 9px;
     text-decoration: none;
     position: relative;
+    font-size: 16px;
+    transition: background 0.05s linear;
 
     .material-icons {
         position: relative;
         top: 3px;
-        font-size: 16px;
+        font-size: 18px !important;
+        // display: none;
     }
     &:hover {
-        background: $brand-dark;
+        background: #00AB77;
         color: $light;
+    }
+    &:active {
+        background: #009973;
+        border: 1px solid #009973;
     }
 }
 footer {
@@ -178,6 +186,9 @@ footer {
         margin: 18px 0;
     }
     .text-muted {
+        font-size: 18px;
+    }
+    .button {
         font-size: 18px;
     }
 }
