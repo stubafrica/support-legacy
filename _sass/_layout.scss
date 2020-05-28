@@ -29,12 +29,12 @@ header {
     }
 }
 .stub-logo {
-    width: 90px; 
+    width: 110px; 
     height: auto;
 }
 @media (min-width: $breakpoint-md) {
     .stub-logo {
-        width: 110px;
+        width: 130px;
     }
     .site-nav {
         .wrapper {   
@@ -46,7 +46,7 @@ header {
 }
 @media (min-width: $breakpoint-lg) {
     .stub-logo {
-        width: 130px;
+        width: 150px;
     }
     .site-nav {
         .wrapper {   
