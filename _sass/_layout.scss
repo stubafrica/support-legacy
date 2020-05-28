@@ -1,3 +1,8 @@
+header {
+    background: #16151C url('/assets/img/bg.jpg') no-repeat center center;
+    background-size: 100% auto;
+}
+
 .site-nav {
     padding-top: 3px;
 
@@ -13,7 +18,7 @@
             flex-grow: 2;
 
             a {
-                color: $dark;
+                color: $light;
                 text-decoration: none;
                 &:hover {
                     text-decoration: underline;
@@ -50,14 +55,7 @@
         }
     }
 }
-
 .page-title {
-    background: #172825;
-    background-image:
-        linear-gradient(
-            to left,
-            #172825, #204438
-        );
     padding: 18px 0;
 
     h1,h2,h3,h4,h5,h6 {
