@@ -64,7 +64,7 @@ header {
         margin: 9px 0;
     }
     p {
-        color: $gray-3;
+        color: $gray-300;
         margin: 12px 0;
     }
 }
@@ -101,7 +101,7 @@ header {
         margin: 0;
         padding: 0 0 12px;
         box-sizing: border-box;
-        border-bottom: 1px solid $gray-2;
+        border-bottom: 1px solid $gray-200;
         
         h5 {
             // font-size: 18px;
@@ -147,7 +147,7 @@ header {
 }
 
 footer {
-    background: $gray-1;
+    background: $gray-100;
 
     .wrapper {
         display: flex;
