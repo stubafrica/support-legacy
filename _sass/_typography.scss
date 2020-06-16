@@ -9,10 +9,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 ::-moz-selection {
-    background: $brand-200;
+    background: $secondary-accent;
 }
 ::selection {
-    background: $brand-200;
+    background: $secondary-accent;
 }
 h1 {
     font-family: $display-font-family;
@@ -78,11 +78,11 @@ ul {
     }
 }
 a {
-    color: $brand-500;
+    color: $primary;
     text-decoration: underline;
 
     &:hover {
-        color: $brand-600;
+        color: $primary-accent;
     }
 }
 .text-muted {
@@ -98,7 +98,7 @@ a {
 
 .button {
     color: $light;
-    background: $brand-500;
+    background: $primary;
     border-radius: $border-radius;
     border: 1px solid #00AB77;
     padding: 7px 18px 9px;
