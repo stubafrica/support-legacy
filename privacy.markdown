@@ -20,8 +20,6 @@ We collect Device Information using the following technologies:
 
 `- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.`
 
-`[[INSERT DESCRIPTIONS OF OTHER TYPES OF TRACKING TECHNOLOGIES USED]]`
-
 Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number. We refer to this information as “Order Information.”
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
