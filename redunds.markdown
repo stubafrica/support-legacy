@@ -4,7 +4,7 @@ title: Refunds
 permalink: /refunds/
 ---
 
-**Refund Policy**
+## Refund Policy
 
 Our policy lasts 30 days. If 30 days have gone by since your purchase, unfortunately we can’t offer you a refund.
 

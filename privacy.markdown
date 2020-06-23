@@ -4,9 +4,9 @@ title: Privacy
 permalink: /privacy/
 ---
 
-**Privacy Policy**
+## Privacy Policy
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [https://stub.africa/](https://stub.africa/) (the “Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from the [stub.africa/](https://stub.africa/) domain (the “Site”).
 
 **PERSONAL INFORMATION WE COLLECT**
 
