@@ -4,7 +4,7 @@ title: Terms
 permalink: /terms/
 ---
 
-## TERMS OF SERVICE
+## Terms of Service
 
 **OVERVIEW**
 
