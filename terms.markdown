@@ -50,7 +50,7 @@ We reserve the right at any time to modify or discontinue the Service (or any pa
 
 We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.
 
-**PRODUCTS OR SERVICES (if applicable)**
+**PRODUCTS OR SERVICES**
 
 We reserve the right, but are not obligated, to limit the sales of our products or Services to any person, geographic region or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or services that we offer. All descriptions of products or product pricing are subject to change at anytime without notice, at the sole discretion of us. We reserve the right to discontinue any product at any time. Any offer for any product or service made on this site is void where prohibited.
 
