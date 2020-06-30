@@ -5,60 +5,6 @@
 @charset "utf-8";
 
 @font-face {
-    font-family: 'Public Sans';
-    src: url('../assets/fonts/publicsans-regular.woff2') format('woff2'),
-         url('../assets/fonts/publicsans-regular.woff') format('woff'),
-         url('../assets/fonts/publicsans-regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Public Sans';
-    src: url('../assets/fonts/publicsans-italic.woff2') format('woff2'),
-         url('../assets/fonts/publicsans-italic.woff') format('woff'),
-         url('../assets/fonts/publicsans-italic.ttf') format('truetype');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Public Sans';
-    src: url('../assets/fonts/publicsans-medium.woff2') format('woff2'),
-         url('../assets/fonts/publicsans-medium.woff') format('woff'),
-         url('../assets/fonts/publicsans-medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Public Sans';
-    src: url('../assets/fonts/publicsans-mediumitalic.woff2') format('woff2'),
-         url('../assets/fonts/publicsans-mediumitalic.woff') format('woff'),
-         url('../assets/fonts/publicsans-mediumitalic.ttf') format('truetype');
-    font-weight: 500;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Public Sans';
-    src: url('../assets/fonts/publicsans-bold.woff2') format('woff2'),
-         url('../assets/fonts/publicsans-bold.woff') format('woff'),
-         url('../assets/fonts/publicsans-bold.ttf') format('truetype');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Public Sans';
-    src: url('../assets/fonts/publicsans-bolditalic.woff2') format('woff2'),
-         url('../assets/fonts/publicsans-bolditalic.woff') format('woff'),
-         url('../assets/fonts/publicsans-bolditalic.ttf') format('truetype');
-    font-weight: 700;
-    font-style: italic;
-}
-
-@font-face {
     font-family: 'Basier Circle';
     src: url('../assets/fonts/basiercircle-regular-webfont.woff2') format('woff2'),
          url('../assets/fonts/basiercircle-regular-webfont.woff') format('woff'),
@@ -90,12 +36,13 @@ $text-font-family: 'Public Sans', sans-serif;
 
 $white:                 rgba(255, 255, 255, 1);
 $timberwolf:            rgba(222, 219, 214, 1);
-$silver-sand:           rgba(176, 176, 176, 1);
-$spanish-gray:          rgba(149, 149, 149, 1);
+$beaver:                rgba(159, 129, 112, 1);
+$silver-sand:           rgba(168, 170, 176, 1);
+$spanish-gray:          rgba(138, 142, 149, 1);
 $black-coral:           rgba(76, 85, 94, 1);
 $gunmetal:              rgba(30, 38, 46, 1);
 $beau-blue:             rgba(188, 212, 230, 1);
-$corn:                  rgba(251, 236, 93, 1);
+$corn:                  rgba(255, 219, 0, 1);
 $jade:                  rgba(0, 168, 107, 1);
 $electric-indigo:       rgba(111, 0, 255, 1);
 $oxford-blue:           rgba(17, 37, 69, 1);
@@ -115,12 +62,12 @@ $secondary-active:      rgba(208, 244, 228, 1);
 // Functional Colours
 
 $light:                 rgba(255, 255, 255, 1);
-$gray-100:              rgba(247, 247, 247, 1);
-$gray-200:              rgba(239, 239, 239, 1);
-$gray-300:              rgba(231, 231, 231, 1);
-$gray-400:              rgba(220, 220, 220, 1);
-$gray-500:              rgba(210, 210, 210, 1);
-$gray-600:              rgba(200, 200, 200, 1);
+$gray-100:              rgba(244, 245, 247, 1);
+$gray-200:              rgba(233, 234, 236, 1);
+$gray-300:              rgba(228, 229, 231, 1);
+$gray-400:              rgba(217, 218, 220, 1);
+$gray-500:              rgba(207, 208, 210, 1);
+$gray-600:              rgba(197, 198, 200, 1);
 $gray-700:              $silver-sand;
 $gray-800:              $spanish-gray;
 $gray-900:              $black-coral;
@@ -129,7 +76,8 @@ $dark:                  $gunmetal;
 $site-width:    960px;
 $border-radius: 3px;
 
-$breakpoint-md: 480px;
+$breakpoint-sm: 320px;
+$breakpoint-md: 560px;
 $breakpoint-lg: 960px;
 
 @import
