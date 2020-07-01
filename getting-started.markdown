@@ -4,11 +4,11 @@ title: Getting started
 subtitle: New to stub? Start here
 ---
 
-<p class="intro">Stub is a financial management platform for smart businesses. From invoicing to insights, stub takes care of your finances so you can take care of your business.</p>
-
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bUBMDWy0-S8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<p class="intro">Stub is a financial management platform for smart businesses. From invoicing to insights, stub takes care of your finances so you can take care of your business.</p>
 
 ## Features & Functionality 
 
