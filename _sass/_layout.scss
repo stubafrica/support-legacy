@@ -49,7 +49,7 @@ header {
         width: 122px;
     }
     .site-nav {
-        .wrapper {   
+        .wrapper {
             h1 {
                 font-size: 20px;
             }
@@ -90,6 +90,87 @@ header {
     }
 }
 
+
+.heros {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    .hero {
+        width: 100%;
+        background: $gray-100;
+        border-radius: 9px;
+        display: block;
+        text-align: center;
+        margin: 0 0 12px;
+        padding: 12px;
+        box-sizing: border-box;
+        transition: transform 0.05s linear;
+
+        > h1:first-child,
+        > h2:first-child,
+        > h3:first-child,
+        > h4:first-child,
+        > h5:first-child,
+        > h6:first-child,
+        > p:first-child,
+        > img:first-child + h1,
+        > img:first-child + h2,
+        > img:first-child + h3,
+        > img:first-child + h4,
+        > img:first-child + h5,
+        > img:first-child + h6,
+        > img:first-child + p {
+            margin: 0;
+            transition: color 0.05s linear;
+        }
+        > img:first-child + h1 + p,
+        > img:first-child + h2 + p,
+        > img:first-child + h3 + p,
+        > img:first-child + h4 + p,
+        > img:first-child + h5 + p,
+        > img:first-child + h6 + p,
+        > img:first-child + p + p {
+            margin: 12px 0 24px;
+        }
+
+        .material-icons {
+            position: relative;
+            top: 4px;
+        }
+    }
+    a.hero {
+        text-decoration: none;
+
+        &:hover {
+            transform: scale(1.025);
+            
+            cursor: pointer;
+
+            h1, h2, h3, h4, h5, h6 {
+                color: $primary;
+            }
+        }
+    }
+}
+@media (min-width: $breakpoint-md) {
+    .heros {
+        .hero {
+            width: calc(50% - 12px);
+            padding: 18px;
+            margin: 0 0 24px;
+        }
+    }
+}
+@media (min-width: $breakpoint-lg) {
+    .heros {
+        .hero {
+            padding: 24px;
+        }
+    }
+}
+
 .toc-and-content {
     display: flex;
     align-items: flex-start;
@@ -99,9 +180,10 @@ header {
     .toc {
         width: 100%;
         margin: 0;
-        padding: 0 0 12px;
+        padding: 0 0 12px 0;
         box-sizing: border-box;
         border-bottom: 1px solid $gray-200;
+        font-family: $display-font-family;
         
         h5 {
             // font-size: 18px;
@@ -126,12 +208,17 @@ header {
     }
     .content {
         width: 100%;
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
     }
 }
 @media (min-width: $breakpoint-lg) {
     .toc-and-content {        
         .toc {
-            padding: 24px 0;
+            padding: 0 0 0 36px;
             width: 33%;
             order: 2;
             border-bottom: none;
@@ -155,11 +242,62 @@ footer {
         justify-content: flex-start;
         flex-wrap: wrap;
 
+        
+
         .column {
             width: 100%;
+
+            ul {
+                list-style: none;
+                padding: 0;
+                li {
+                    margin: 12px 0;
+                    font-size: 14px;
+
+                    a {
+                        color: $gray-900;
+                        text-decoration: none;
+                        &:hover {
+                            color: $dark;
+                        }
+                    }
+                    .icon {
+                        position: relative;
+                        top: 3px;
+                        margin-right: 6px;
+                    }
+                }
+            }
         }
-        p {
+
+        .copyright,
+        .policies {
+            color: $gray-700;
+            font-size: 14px;
             width: 100%;
+            a {
+                color: $gray-700;
+                text-decoration: none;
+                &:hover {
+                    color: $gray-800;
+                }
+            }
+        }
+        .copyright {
+            margin: 48px 0 6px;
+        }
+        .policies {
+            margin: 6px 0 24px;
+        }
+    }
+}
+
+@media (min-width: $breakpoint-sm) {
+    footer {
+        .wrapper {
+            .column {
+                width: 50%;
+            }
         }
     }
 }
@@ -167,7 +305,12 @@ footer {
     footer {
         .wrapper {
             .column {
-                width: 33%;
+                width: 25%;
+                ul {
+                    li {
+                        font-size: 16px;
+                    }
+                }
             }
         }
     }
@@ -177,6 +320,11 @@ footer {
         .wrapper {
             .column {
                 width: 25%;
+                ul {
+                    li {
+                        font-size: 18px;
+                    }
+                }
             }
         }
     }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>income-and-expenses</title>
+    <g id="income-and-expenses" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M41.5,40 C36,49 36,92.5 43.5,103 C51,113.5 74.8727822,111 82,105 C89.1272178,99 86.3075985,47.9969485 81,36.5 C75.6924015,25.0030515 47,31 41.5,40 Z" id="Path-100-Copy" fill-opacity="0.0976289336" fill="#92A5AD"></path>
+        <g id="Group" transform="translate(65.500000, 68.000000) rotate(-6.000000) translate(-65.500000, -68.000000) translate(45.000000, 33.000000)">
+            <path d="M0,66 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L37,0 C39.209139,-4.05812251e-16 41,1.790861 41,4 L41,66 C41,68.209139 39.209139,70 37,70 L4,70 C1.790861,70 2.705415e-16,68.209139 0,66 Z" id="Path-26" fill="#4C555E"></path>
+            <path d="M2,65.5 L2,4.5 C2,3.11928813 3.11928813,2 4.5,2 L36.5,2 C37.8807119,2 39,3.11928813 39,4.5 L39,65.5 C39,66.8807119 37.8807119,68 36.5,68 L4.5,68 C3.11928813,68 2,66.8807119 2,65.5 Z" id="Path-26" fill="#DEDBD6"></path>
+            <polyline id="Path-35" stroke="#6F00FF" stroke-width="2" points="7 39.3333333 14.5 43.5 25.4979908 30.4977686 35 28"></polyline>
+            <polyline id="Path-35" stroke="#00A86B" stroke-width="2" points="7 35.3333333 16 27.4901961 25 42 34 22"></polyline>
+            <rect id="Rectangle" fill="#EFEFEF" x="4.89547154" y="6.9945219" width="31" height="6" rx="1"></rect>
+            <polygon id="Path-36" fill="#4C555E" points="11 1 11.974359 4 29.025641 4 30 1"></polygon>
+            <path d="M34.7189106,6.00947991 C39.1819996,9.88936947 39.0029484,51.1324921 34.723639,57.2859651 C30.4443296,63.4394381 38.6767551,28.0482258 12.3198215,19.0566616 C-14.037112,10.0650973 30.2558216,2.12959035 34.7189106,6.00947991 Z" id="Path-113" fill="#FFFFFF" opacity="0.200000003"></path>
+        </g>
+    </g>
+</svg>
