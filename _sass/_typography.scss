@@ -33,33 +33,37 @@ h3 {
     font-family: $display-font-family;
     font-size: 18px;
     color: $dark;
-    font-weight: 700;
+    font-weight: 500;
     margin: 24px 0 9px;
 }
 h4 {
     font-family: $display-font-family;
     font-size: 16px;
     color: $dark;
-    font-weight: 700;
+    font-weight: 500;
     margin: 20px 0 9px;
 }
 h5 {
     font-family: $display-font-family;
     font-size: 16px;
     color: $dark;
-    font-weight: 600;
+    font-weight: 500;
     margin: 20px 0 9px;
 }
 h6 {
     font-family: $display-font-family;
     font-size: 16px;
     color: $dark;
-    font-weight: 600;
+    font-weight: 700;
     margin: 20px 0 9px;
 }
 p {
     font-size: 16px;
     margin: 18px 0;
+}
+.subtext {
+    font-size: 14px;
+    color: $gray-700;
 }
 
 ol {
@@ -88,10 +92,6 @@ a {
     &:hover {
         color: $primary-active;
     }
-}
-.text-muted {
-    font-size: 16px;
-    color: $gray-700;
 }
 .callout {
     padding: 12px;
@@ -159,6 +159,9 @@ a {
         font-size: 18px;
         margin: 24px 0;
     }
+    .subtext {
+        font-size: 16px;
+    }
     ol {
         font-size: 18px;
         margin: 24px 0;
@@ -170,9 +173,6 @@ a {
     .callout {
         padding: 16px 18px;
         margin: 18px 0;
-    }
-    .text-muted {
-        font-size: 18px;
     }
     .button {
         font-size: 18px;

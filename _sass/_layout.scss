@@ -90,6 +90,20 @@ header {
     }
 }
 
+
+.heros {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    .hero {
+        width: 50%;
+        background: $gray-200;
+        text-align: center;
+    }
+}
+
 .toc-and-content {
     display: flex;
     align-items: flex-start;
@@ -102,6 +116,7 @@ header {
         padding: 0 0 12px;
         box-sizing: border-box;
         border-bottom: 1px solid $gray-200;
+        font-family: $display-font-family;
         
         h5 {
             // font-size: 18px;
@@ -159,11 +174,14 @@ footer {
 
         .column {
             width: 100%;
+
             ul {
                 list-style: none;
                 padding: 0;
                 li {
                     margin: 12px 0;
+                    font-size: 14px;
+
                     a {
                         color: $gray-900;
                         text-decoration: none;
@@ -174,7 +192,7 @@ footer {
                     .icon {
                         position: relative;
                         top: 3px;
-                        margin-right: 6px;;
+                        margin-right: 6px;
                     }
                 }
             }
@@ -216,6 +234,25 @@ footer {
         .wrapper {
             .column {
                 width: 25%;
+                ul {
+                    li {
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+    }
+}
+@media (min-width: $breakpoint-lg) {
+    footer {
+        .wrapper {
+            .column {
+                width: 25%;
+                ul {
+                    li {
+                        font-size: 18px;
+                    }
+                }
             }
         }
     }

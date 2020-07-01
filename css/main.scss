@@ -14,6 +14,14 @@
 }
 @font-face {
     font-family: 'Basier Circle';
+    src: url('../assets/fonts/basiercircle-medium-webfont.woff2') format('woff2'),
+         url('../assets/fonts/basiercircle-medium-webfont.woff') format('woff'),
+         url('../assets/fonts/basiercircle-medium-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Basier Circle';
     src: url('../assets/fonts/basiercircle-semibold-webfont.woff2') format('woff2'),
          url('../assets/fonts/basiercircle-semibold-webfont.woff') format('woff'),
          url('../assets/fonts/basiercircle-semibold-webfont.ttf') format('truetype');
