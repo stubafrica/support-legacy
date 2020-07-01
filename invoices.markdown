@@ -57,29 +57,51 @@ This is the date when the invoice is issued — note that this is not the same a
 
 This is your company information. It automatically shows on any invoice that you create. 
 
-<p class="callout">Note that for your invoice to be legally binding it must include your business name and address.</p>
+<p class="callout">Note that for your invoice to be legally binding it must include your business name and full address.</p>
 
 ### To
 
-This is 
+This is your client's company information. 
+
+<p class="callout">Note that for your invoice to be legally binding it must include your client's organisation name and full address.</p>
 
 ### Line items
 
+Theses are the line items of your invoice. You can include as many as you need.
+
 ### Discount
+
+Want to add a discount to your invoice? Go ahead.
+
+The discount is calculated and applied before shipping or VAT is added.
 
 ### Shipping
 
+Add shipping separately — rather than as a line item (which would have VAT added to it) — if you need to include it.
+
 ### VAT
+
+If your business is VAT registered you can include VAT. Your VAT registration number will be shown at the bottom of your invoice if you include VAT. Make sure you add your VAT registration number in your business profile.
 
 ### Deposit
 
+If you will be requiring a deposit for the invoice include it here. If you need to, you can explain the terms of the deposit in your invoice description.
+
 ### Due Date
 
-### VAT Registration number
+This is the date by which payment is due, for the invoice. Note that this is different to the invoice date above (which is the date that they invoice issued on).
+
+### VAT Registration Number
+
+If you're including VAT, be sure to add your VAT registration number to your business profile, so that it's included on your invoices.  
 
 ### Payment details
 
+Here you can include a note about payment for your invoice. 
+
 ### Account information
+
+Make sure that add your account information to your business profile, so that it's included on your invoices. 
 
 ## Quotes
 
