@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: default
 title: Tips & Tricks
 subtitle: Getting the most out of stub
 ---
 
-<p class="intro">Stub is a financial management platform for smart businesses. From invoicing to insights, stub takes care of your finances so you can take care of your business.</p>
+<img src="{{ '/assets/img/building-stub.svg' | prepend: site.url }}" alt="Add expense">
+
+# Coming soon...
+
+We're hard at work adding lots of powerful features to stub. We're just getting started and we want to go on the journey together. If you'd like to be part of the stub community check out [building stub](https://beta.stub.africa/building-stub) to see what we're working on.

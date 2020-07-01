@@ -10,18 +10,6 @@ subtitle: New to stub? Start here
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bUBMDWy0-S8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-With stub you can...
-
-- Get insights about your cashflow and business finances
-- Create and send invoices
-- Track your expenses
-- Add income and invoice payments
-- [More to come...](https://beta.stub.africa/building-stub)
-
-## Creating an account
-
-You need an invite code to access stub right away — we'll be publically available soon. If you don't have an invite code you can [register to get access](https://stub.africa) as soon as stub is available.
-
 ## Features & Functionality 
 
 stub gives you the following functionality:
@@ -31,3 +19,8 @@ stub gives you the following functionality:
 - [Income](/income-and-expenses): add payments and another other income.
 - [Expenses](/income-and-expenses): keep track of all of your business expenses.
 - Settings: manage your business profile and account information.
+- and [lots more to come...](https://beta.stub.africa/building-stub)
+
+## Creating an account
+
+You need an invite code to access stub right away — we'll be publically available soon. If you don't have an invite code you can [register to get access](https://stub.africa) as soon as stub is available.
