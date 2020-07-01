@@ -6,7 +6,7 @@ permalink: /refunds/
 
 ## Refund Policy
 
-Our policy lasts 30 days. If 30 days have gone by since your purchase, unfortunately we can’t offer you a refund.
+If 30 days have gone by since your purchase, unfortunately we can’t offer you a refund.
 
 We will notify you of the approval or rejection of your refund.
 
