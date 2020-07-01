@@ -16,7 +16,7 @@ stub gives you the following functionality:
 
 - Insights: this is your dashboard, where you get a feed of insights for your business.
 - [Invoices](/invoices): create, send and add payments to invoices.
-- [Income](/income-and-expenses): add payments and another other income.
+- [Income](/income-and-expenses): add payments and other income.
 - [Expenses](/income-and-expenses): keep track of all of your business expenses.
 - Settings: manage your business profile and account information.
 - and [lots more to come...](https://beta.stub.africa/building-stub)
