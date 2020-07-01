@@ -7,23 +7,25 @@ title: Help & Support
 subtitle: We're here to help
 ---
 
-<p class="callout">Stub is a financial management platform for smart businesses. From invoicing to insights, stub takes care of your finances so you can take care of your business.</p>
-
 <div class="heros">
-    <div class="hero">
-        <h3>Getting started</h3>
-        <p>New to stub? Start here.</p>
-    </div>
-    <div class="hero">
-        <h3>Invoices</h3>
-        <p>New to stub? Start here.</p>
-    </div>
-    <div class="hero">
-        <h3>Income & Expenses</h3>
-        <p>New to stub? Start here.</p>
-    </div>
-    <div class="hero">
-        <h3>Invoices</h3>
-        <p>New to stub? Start here.</p>
-    </div>
+    <a class="hero" href="/getting-started">
+        <img src="{{ '/assets/img/getting-started.svg' | prepend: site.url }}" />
+        <h3>Getting started <span class="material-icons">arrow_forward</span></h3>
+        <p class="subtext">New to stub? Start here</p>
+    </a>
+    <a class="hero" href="/invoices">
+        <img src="{{ '/assets/img/invoices.svg' | prepend: site.url }}" />
+        <h3>Invoices <span class="material-icons">arrow_forward</span></h3>
+        <p class="subtext">Creating, sending and adding payments for invoices</p>
+    </a>
+    <a class="hero" href="/income-and-expenses">
+        <img src="{{ '/assets/img/income-and-expenses.svg' | prepend: site.url }}" />
+        <h3>Income & Expenses <span class="material-icons">arrow_forward</span></h3>
+        <p class="subtext">Tracking expenses and adding income</p>
+    </a>
+    <a class="hero" href="/tips-and-tricks">
+        <img src="{{ '/assets/img/tips.svg' | prepend: site.url }}" />
+        <h3>Tips &amp; Tricks <span class="material-icons">arrow_forward</span></h3>
+        <p class="subtext">Getting the most out of stub</p>
+    </a>
 </div>

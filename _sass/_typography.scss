@@ -61,9 +61,14 @@ p {
     font-size: 16px;
     margin: 18px 0;
 }
+.intro {
+    font-size: 18px;
+    font-weight: 600;
+    color: $dark;
+}
 .subtext {
     font-size: 14px;
-    color: $gray-700;
+    color: $gray-800;
 }
 
 ol {
@@ -92,12 +97,6 @@ a {
     &:hover {
         color: $primary-active;
     }
-}
-.callout {
-    padding: 12px;
-    margin: 12px 0;
-    border-radius: 9px;
-    background-color: $gray-100;
 }
 
 .button {
@@ -159,6 +158,9 @@ a {
         font-size: 18px;
         margin: 24px 0;
     }
+    .intro {
+        font-size: 20px;
+    }
     .subtext {
         font-size: 16px;
     }
@@ -169,10 +171,6 @@ a {
     ul {
         font-size: 18px;
         margin: 24px 0;
-    }
-    .callout {
-        padding: 16px 18px;
-        margin: 18px 0;
     }
     .button {
         font-size: 18px;
@@ -211,16 +209,15 @@ a {
         font-size: 20px;
         margin: 24px 0;
     }
+    .intro {
+        font-size: 22px;
+    }
     ol {
         font-size: 20px;
         margin: 24px 0;
     }
     ul {
         font-size: 20px;
-        margin: 24px 0;
-    }
-    .callout {
-        padding: 22px 24px;
         margin: 24px 0;
     }
 }

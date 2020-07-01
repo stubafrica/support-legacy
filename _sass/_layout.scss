@@ -98,9 +98,75 @@ header {
     flex-wrap: wrap;
 
     .hero {
-        width: 50%;
-        background: $gray-200;
+        width: 100%;
+        background: $gray-100;
+        border-radius: 9px;
+        display: block;
         text-align: center;
+        margin: 12px 0;
+        padding: 12px;
+        box-sizing: border-box;
+        transition: transform 0.05s linear;
+
+        > h1:first-child,
+        > h2:first-child,
+        > h3:first-child,
+        > h4:first-child,
+        > h5:first-child,
+        > h6:first-child,
+        > p:first-child,
+        > img:first-child + h1,
+        > img:first-child + h2,
+        > img:first-child + h3,
+        > img:first-child + h4,
+        > img:first-child + h5,
+        > img:first-child + h6,
+        > img:first-child + p {
+            margin: 0;
+            transition: color 0.05s linear;
+        }
+        > img:first-child + h1 + p,
+        > img:first-child + h2 + p,
+        > img:first-child + h3 + p,
+        > img:first-child + h4 + p,
+        > img:first-child + h5 + p,
+        > img:first-child + h6 + p,
+        > img:first-child + p + p {
+            margin: 12px 0 24px;
+        }
+
+        .material-icons {
+            position: relative;
+            top: 4px;
+        }
+    }
+    a.hero {
+        text-decoration: none;
+
+        &:hover {
+            transform: scale(1.025);
+            
+            cursor: pointer;
+
+            h1, h2, h3, h4, h5, h6 {
+                color: $primary;
+            }
+        }
+    }
+}
+@media (min-width: $breakpoint-md) {
+    .heros {
+        .hero {
+            width: calc(50% - 12px);
+            padding: 18px;
+        }
+    }
+}
+@media (min-width: $breakpoint-lg) {
+    .heros {
+        .hero {
+            padding: 24px;
+        }
     }
 }
 
