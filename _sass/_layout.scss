@@ -103,7 +103,7 @@ header {
         border-radius: 9px;
         display: block;
         text-align: center;
-        margin: 12px 0;
+        margin: 0 0 12px;
         padding: 12px;
         box-sizing: border-box;
         transition: transform 0.05s linear;
@@ -159,6 +159,7 @@ header {
         .hero {
             width: calc(50% - 12px);
             padding: 18px;
+            margin: 0 0 24px;
         }
     }
 }
@@ -179,7 +180,7 @@ header {
     .toc {
         width: 100%;
         margin: 0;
-        padding: 0 0 12px;
+        padding: 0 0 12px 0;
         box-sizing: border-box;
         border-bottom: 1px solid $gray-200;
         font-family: $display-font-family;
@@ -212,7 +213,7 @@ header {
 @media (min-width: $breakpoint-lg) {
     .toc-and-content {        
         .toc {
-            padding: 24px 0;
+            padding: 0 0 24px 24px;
             width: 33%;
             order: 2;
             border-bottom: none;
