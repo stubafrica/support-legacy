@@ -6,70 +6,232 @@ permalink: /privacy/
 
 ## Privacy Policy
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from the [stub.africa](https://stub.africa/) domain (the “Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you use [stub.africa](https://stub.africa/) domain (the “Site”).
 
-**PERSONAL INFORMATION WE COLLECT**
+### 1. How we collect information
 
-When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
+We may collect certain information during any of the following:
 
-We collect Device Information using the following technologies:
+- on registration;
+- when engaging with third party service providers;
+- making use of our real-time reporting tools;
+- making use of any other goods or services offered by us;
+- during any online session from your web browser;
+- from cookies we may send to your computer and from web beacons on our website to track how you use our website and to try and give you a personalised experience; and
+- optional information, that you provide when you upload or download content from our website or when you enter competitions, take advantage of promotions, respond to surveys or register and subscribe for certain additional services use.
 
-`- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.`
+### 2. We may use your information:
 
-`- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.`
+- to send you administrative messages and email updates to you regarding the website;
+- for marketing purposes;
+- for targeted content in certain, specified instances directly or via third party service providers; and
+- for business purposes, which may be deemed beneficial to you.
 
-`- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.`
+### Mobile Device:
 
-Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number. We refer to this information as “Order Information.”
+If you’re using the mobile device we may collect data that identifies settings and locations.
 
-When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
+### 3. Disclosure
 
-**HOW DO WE USE YOUR PERSONAL INFORMATION?**
+We might disclose your information in the specific circumstances mentioned in this policy.
 
-We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
+### 4. Security
 
-Communicate with you;
+We endeavour to protect your information. In this regard you have the following choices:
 
-Screen our orders for potential risk or fraud; and
+- You can turn off cookies in your browser; or
+- You can opt-out of marketing communications with us by clicking on unsubscribe link in any marketing email that has been sent you.
 
-When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+## stub Privacy & Personal Information Policy
 
-We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns). We also collect information on how you use stub.
+### 1. Audience
 
-**SHARING YOUR PERSONAL INFORMATION**
+This policy applies to all visitors to our website and customers, potential customers and customers or potential customers of our affiliates or partners ("you" and "your").
 
-We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Paddle to power our online payments--you can read more about how Paddle uses your Personal Information here: [https://paddle.com/privacy/](https://paddle.com/privacy/). We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+### 2. Purpose of this policy
 
-Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+This policy disclaims the personal information and privacy issues that affect you and any potential customers. It describes the way we collect, store, use, and protect information that can be associated with you, your business or a natural person and can be used to identify any of the above (“personal information”).
 
-**BEHAVIOURAL ADVERTISING**
+### 3. Personal information:
 
-As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at [http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work](http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work).
+### 3.1 includes
 
-You can opt out of targeted advertising by:
+- certain information collected on registration;
+- additional information accessed through your interactions with us; and
+- optional information that you voluntarily provide to us.
 
-Facebook - [https://www.facebook.com/settings/?tab=ads](https://www.facebook.com/settings/?tab=ads)
+### 3.2 excludes
 
-Google - [https://www.google.com/settings/ads/anonymous](https://www.google.com/settings/ads/anonymous)
+- information that has been made anonymous so that it does not identify a specific person;
+- permanently de-identified information that does not relate or cannot be traced back to you specifically; and
+- non-personal statistical information collected and compiled by us and information that you have provided voluntarily in an open, public environment or forum including (without limitation) any blog, social media account, chat room, community, classifieds or discussion board. Because the information has been disclosed in a public forum, it is no longer confidential and does not constitute personal information subject to protection under this policy.
 
-Twitter - [https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads)
+### 4. Acceptance of terms
 
-Instagram - [https://help.instagram.com/615366948510230](https://help.instagram.com/615366948510230)
+You must accept all the terms of this policy when you visit our website or register for any of our services. If you do not agree with anything in this policy, then you may not register for and use any of the services. You may not access our website or use our services if you are younger than 18 years old or do not have legal capacity to conclude legally binding contracts. By accepting this policy, you are deemed to have read, understood, accepted, and agreed to be bound by all its terms.
 
-Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: [http://optout.aboutads.info/](http://optout.aboutads.info/).
+### 5. Changes
 
-DO NOT TRACK
+We may change the terms of this policy at any time. We will notify you of any changes by placing a notice in a prominent place on the website or by email. If you do not agree with the change you must stop using the services. If you continue to use the services following notification of a change to the terms, the changed terms will apply to you and you will be deemed to have accepted such terms.
 
-Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+### 6. Collection
 
-DATA RETENTION
+### 6.1 _On registration_
 
-When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+Once you register on our website, you will no longer be anonymous to us as you will provide us with personal information.
 
-CHANGES
+This personal information will include:
 
-We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+- your name, surname, company name, company registration number, and VAT number;
+- your postal address, email address, telephone number, and postal code;
+- your user ID and password;
+- your social media details or related user accounts;
+- FICA details; and
+- Payment details, bank account(s) and credit card number(s).
 
-CONTACT US
+### 6.2 _Collection on use_
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at stubafrica@gmail.com or by mail using the details provided : Alexandra Avenue, Craighall, Johannesburg, GP, 2196, South Africa
+In order to provide the services to you, you will be asked to provide us with additional information on a voluntary basis such as:
+
+- profile management details;
+- real-time reporting details;
+- personal account details;
+- details relating to skills and knowledge transfer from us to you; and
+- expense management details.
+
+### 6.3 _Optional details_
+
+You may also provide additional information on a voluntary basis such as value added services or third party services provided by our partners or affiliates or any further information you provide to us (“optional information”). This includes content or products that you decide to upload or download from our website or when you enter competitions, take advantage of promotions, respond to surveys, register and subscribe for certain additional services, or otherwise use the optional features and functionality of the website.
+
+### 6.4 _Collection from browser_
+
+We automatically receive and record Internet usage information on our server logs from your browser, such as your Internet Protocol address (“IP address”), browsing habits, click patterns, version of software installed, system type, screen resolutions, colour capabilities, plug-ins, language settings, cookie preferences, search engine keywords, JavaScript enablement, the content and pages that you access on the website, and the dates and times that you visit the website, paths taken, and time spent on sites and pages within the website (“usage information”). Please note that other websites visited before entering our website might place personal information within your URL during a visit to it, and we have no control over such websites. Accordingly, a subsequent website that collects URL information may log some personal information.
+
+### 6.5 _Cookies_
+
+When you access our website we may send one or more Cookies (small text files containing a string of alphanumeric characters) to your computer to collect certain usage information. We use session Cookies (which disappear after you close your browser) and persistent Cookies (which remain after you close your browser and which can be removed manually) which may be used by your browser on subsequent visits to our website.
+
+We use information gathered by Cookies to improve the website. Please note that some of our business partners (e.g. advertisers) use their own Cookies or widgets on our website. We have no access to or control over them. Information collected by any such Cookie or widget is governed by the privacy policy of the company that created it, and not by us. Cookies cannot contain malicious code such as viruses. All information is anonymous and we do not use the collected information to create visitor profiles.
+
+**Refusing a Cookie may, in some cases, preclude you from using, or negatively impact, the display or function of our websites or certain areas or features of our websites.**
+
+stub uses Google Analytics and Cookies to target our advertising on third party sites. For example, it may be ads on Facebook, LinkedIn, Google AdWords or other websites.
+
+Google Analytics is a web analysis service that analyses how users interact with the site. On behalf of stub and based on your consent, Google will use this information to assess your use of the website, to compile reports on website activity and to provide the website operator with other services related to website and internet use.
+
+### How can you control Cookies?
+
+To prevent your data from being used by Google Analytics, download and install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en) and click on the blue button.
+
+For more information on terms of use and data protection, please visit the Analytics Help page; [Safeguarding your data](https://support.google.com/analytics/answer/6004245).
+
+In addition, the User can manage preferences for Cookies directly from within their own browser and prevent – for example – third parties from installing Cookies. Through browser preferences, it is also possible to delete Cookies installed in the past, including the Cookies that may have saved the initial consent for the installation of Cookies by this website. If you use different devices to access our website, you will need to ensure that each browser of each device is set to your Cookie preference.
+
+To find information about how to manage Cookies in the most commonly used browsers, visit the following addresses below:
+
+Chrome: https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies
+
+Firefox: https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+
+Safari: [https://support.apple.com/en-za/guide/safari/sfri11471/ mac](https://support.apple.com/en-za/guide/safari/sfri11471/%20mac)
+
+Edge: https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies 
+
+### 6.6 Tracking Tools
+
+stub uses third party tracking tools in order to improve your customer experience.
+
+### 6.7 _Web beacons_
+
+Our website may contain electronic image requests that allow us to count page views and to access cookies. Any electronic image viewed as part of a web page (including an ad banner) can act as a web beacon. Our web beacons do not collect, gather, monitor or share any of your personal information. We merely use them to compile anonymous information about our website.
+
+### 6.8 _Purpose for collection_
+
+We may use any service information and optional information provided by you for such purposes as indicated to you at the time you agree to provide such service information or optional information. We may use your usage information for the purposes described above and to:
+
+- remember your information so that you will not have to re-enter it during your visit or the next time you access the website;
+- monitor website usage metrics such as total number of visitors and pages accessed;
+- provide any services, which may be useful or beneficial to you; and
+- track your entries, submissions, and status in any promotions or other activities in connection with your usage of the website.
+
+### 7. Use
+
+### 7.1 _Messages and updates_
+
+We may send administrative messages and email updates to you regarding the website. In some cases, we may also send you primarily promotional messages. You can choose to opt-out of promotional messages.
+
+### 7.2 _Targeted content_
+
+While you are logged into the website, we may display targeted adverts and other relevant information based on personal information. In a completely automated process, computers process personal information and match it to adverts or related information. If you click on an advert, we may send a referring URL to the advertiser’s website identifying that a customer is visiting from the website. If you click on a third party or affiliate or advertiser’s website however, the advertiser is able to collect your personal information.
+
+### 8. Disclosure
+
+### 8.1 _Sharing your information_
+
+We may share your personal information with:
+
+- Other divisions or companies within the group of companies to which we belong, or third-party advertisers, affiliates or service provides so as to provide joint content or services like registration or for transactions and customer support, to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications.
+- An affiliate, in which case we will seek to require the affiliates to honour this privacy and personal information policy;
+- Our service providers under contract who help with parts of our business operations (including fraud prevention, bill collection, marketing, technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit;
+- Credit bureaus to report account information, as permitted by law; and
+- Banking partners as required by credit card association rules for inclusion on their list of terminated merchants (in the event that you utilise the services to receive payments and you meet their criteria).
+
+### 8.2 In the process of various activities recorded in this policy we may receive a fee or compensation from third parties and you expressly consent and approve our engagement in those activities.
+
+### 8.3 _Regulators_
+
+If you contact us regarding your experience with using any of our products, we may disclose your personal information as required by law or governmental audit.
+
+### 8.4 _Law enforcement_
+
+We may disclose personal information if required:
+
+- by a subpoena or court order;
+- to comply with any law;
+- to protect the safety of any individual or the general public; and
+- to prevent violation of our service terms.
+
+### 8.5 _Marketing purposes_
+
+We may disclose aggregate statistics (information about the customer population in general terms) about the personal information to advertisers or business partners.
+
+### 8.6 _Employees_
+
+We may need to disclose personal information to our employees that require the personal information to do their jobs.
+
+### 8.7 _Change of ownership_
+
+If we undergo a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we may assign our rights to the personal information we process to a successor, purchaser, or separate entity. We will disclose the transfer on the website. If you are concerned about your personal information migrating to a new owner, you may request us to delete your personal information.
+
+### 9. Security of personal information
+
+Generally we use computer safeguards such as firewalls and data encryption to protect personal information and we enforce physical access controls to our buildings and files. We authorize access to personal information only for those employees who require it to fulfill their job responsibilities. Our hosting company will host our website in a secure server environment that uses a firewall and other advanced security measures to prevent interference or access from outside intruders. We authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
+
+### 10. Accurate and up to date
+
+We will try to keep the personal information we collect as accurate, complete and up to date as is necessary for the purposes explicitly defined in this policy. From time to time we will request you to update your personal information on the website. You are able to review or update any personal information that we hold on you by accessing your account online, by emailing us, or by phoning us. Please note that in order to better protect you and safeguard your personal information, we take steps to verify your identity before granting you access to your account or making any corrections to your personal information.
+
+### 11. Retention of personal information
+
+We will only retain your personal information for as long as we determine is necessary to fulfill the purposes explicitly set out in this policy, unless:
+
+- retention of the record is required or authorized by law; or
+- you have consented to the retention of the record.
+
+During the period of retention, we will continue to abide by our obligations. Unless explicitly directed otherwise, your access of our website or use of our services is deemed consent to retain records of the information outlined in this privacy and personal information policy.
+
+### 12. Transfer of personal information outside South Africa
+
+We may transmit or transfer personal information outside South Africa to a foreign country. Personal information may be stored on servers located outside South Africa in a foreign country whose laws protecting personal information may not be as stringent as the laws in South Africa. You consent to us processing your personal information in a foreign country whose laws regarding processing of personal information may be less stringent.
+
+### 13. Updating or removing
+
+You may choose to correct or update the personal information you have submitted to us by logging into your account.
+
+### 14. Limitation
+
+We are not responsible for, give no warranties, nor make any representations in respect of the privacy policies or practices of linked or any third party websites.
+
+### 15. Enquiries
+
+If you have any questions please reach out to us on stubafrica@gmail.com.
